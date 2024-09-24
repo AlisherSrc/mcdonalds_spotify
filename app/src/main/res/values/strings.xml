@@ -9,4 +9,7 @@
     <string name="card_details">Детали карты</string>
     <string name="deposit_action">Пополнить</string>
     <string name="transfer_action">Перевести</string>
+    <!--McDonalds-->
+    <string name="my_mcdonalds_order">my mcdonalds order</string>
+    <string name="user_name_spotify">AlisherSk</string>
 </resources>
